@@ -3,6 +3,9 @@
 
 var moongen = {
   // moon generator functions
+   mkmoon: function() {
+    
+   }
 
 }
 
